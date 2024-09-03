@@ -1,0 +1,5 @@
+fastapi
+tensorflow
+Pillow
+uvicorn
+python-multipart

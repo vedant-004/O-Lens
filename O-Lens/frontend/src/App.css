@@ -1,0 +1,88 @@
+* {
+  background-color: #181D31;
+}
+
+h1 {
+  font-family: 'Montserrat';
+  color: #E6DDC4;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 900;
+}
+
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Bebas Neue';
+  font-size: 4rem;
+  color: #678983;
+  font-weight: 900;
+}
+
+.nav-link {
+  font-size: 1.3rem;
+  font-family: 'Montserrat';
+  font-weight: 300;
+  color: #678983;
+}
+
+.desc {
+  margin-bottom: 10px;
+}
+
+.img-holder {
+  width: 300px;
+  height: 300px;
+  border-radius: 5px;
+  margin: auto;
+}
+
+.img {
+  width: 300px;
+  height: 300px;
+  /* object-fit: cover; */
+  border: 3px solid #F0E9D2;
+}
+
+.container-fluid input {
+  display: none;
+}
+
+
+.button-1 {
+  height:50px;
+  width: 300px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  cursor: pointer;
+  text-align: center;
+  font-family: 'Montserrat';
+  font-size: 1rem;
+  background-color: transparent;
+  border: 3px solid #678983;
+  border-radius: 50px;
+  -webkit-transition: all .15s ease-in-out;
+  transition: all .15s ease-in-out;
+  color: #E6DDC4;
+}
+.button-1:hover {
+  box-shadow: 0 0 10px 0 #678983 inset, 0 0 20px 2px #678983;
+  border: 3px solid #E6DDC4;
+  color: #678983;
+}
+
+
+.pred {
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 125px;
+  padding-top: 1rem;
+  text-align: center;
+  font-family: 'Ubuntu';
+  font-size: 1.5rem;
+  color: #678983;
+  border-radius: 10px;
+}
