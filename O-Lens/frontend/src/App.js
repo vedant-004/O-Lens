@@ -58,7 +58,7 @@ function App() {
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                  <a class="nav-link" href="https://parthtyagi15.github.io/CV-parth/">About me</a>
+                  <a class="nav-link" href="https://drive.google.com/file/d/1xuuORtdw35cacqvGKXZ2BK70aiYh4i0C/view?usp=sharing">About me</a>
                 </li>
               </ul>
             </div>
